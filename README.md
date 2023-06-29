@@ -6,7 +6,7 @@ used mark language: html5, css , scss, javascript, jquery<br />
 used plugin: gsap only yet..... <br />
 last updated : 2023.06.28<br />
 
-지훈이가 봐야하는 것
+우선.....
 
 ![image](https://github.com/NAM9184/light-test/assets/106583320/3c7a9026-be55-4290-8f49-00e5b4f9b263)
 
