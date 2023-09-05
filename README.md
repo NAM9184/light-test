@@ -1,4 +1,4 @@
-# light-test
+# lightyoung
 
 Test for lightyoung landing page <br />
 used tool : visual studio code<br />
